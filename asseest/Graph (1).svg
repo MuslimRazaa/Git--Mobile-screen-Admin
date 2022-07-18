@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="309.5" height="146" viewBox="0 0 309.5 146">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="309.5" height="146" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Graph" clip-path="url(#clip-path)">
+    <g id="Group_394" data-name="Group 394" transform="translate(-32 -537)">
+      <g id="Chart_-_Left_Value" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_60k" data-name="60k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">60k</tspan></text>
+    </g>
+    <g id="Group_394-2" data-name="Group 394" transform="translate(-32 -514)">
+      <g id="Chart_-_Left_Value-2" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-2" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_50k" data-name="50k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">50k</tspan></text>
+    </g>
+    <g id="Group_394-3" data-name="Group 394" transform="translate(-32 -491)">
+      <g id="Chart_-_Left_Value-3" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-3" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_40k" data-name="40k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">40k</tspan></text>
+    </g>
+    <g id="Group_394-4" data-name="Group 394" transform="translate(-32 -468)">
+      <g id="Chart_-_Left_Value-4" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-4" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_30k" data-name="30k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">30k</tspan></text>
+    </g>
+    <g id="Group_394-5" data-name="Group 394" transform="translate(-32 -445)">
+      <g id="Chart_-_Left_Value-5" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-5" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_20k" data-name="20k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">20k</tspan></text>
+    </g>
+    <g id="Group_394-6" data-name="Group 394" transform="translate(-32 -422)">
+      <g id="Chart_-_Left_Value-6" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-6" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_10k" data-name="10k" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">10k</tspan></text>
+    </g>
+    <g id="Group_394-7" data-name="Group 394" transform="translate(-32 -399)">
+      <g id="Chart_-_Left_Value-7" data-name="Chart - Left Value" transform="translate(50.5 541)">
+        <rect id="Shape-7" data-name="Shape" width="291" height="1.344" fill="#f1f1f5"/>
+      </g>
+      <text id="_0" data-name="0" transform="translate(32 543)" fill="#2c2738" font-size="6" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.006em" opacity="0.52"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+</svg>

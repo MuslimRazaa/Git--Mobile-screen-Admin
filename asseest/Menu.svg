@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Menu" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_1)">
+      <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(9 6)" fill="#f3f3f3" stroke="#707070" stroke-width="0.1">
+        <rect width="31" height="31" rx="8" stroke="none"/>
+        <rect x="0.05" y="0.05" width="30.9" height="30.9" rx="7.95" fill="none"/>
+      </g>
+    </g>
+    <path id="Bottom" d="M0,0H17.155" transform="translate(7.148 21.443)" fill="none" stroke="#170000" stroke-width="1.5"/>
+    <line id="Mid" x2="17.155" transform="translate(7.148 15.725)" fill="none" stroke="#170000" stroke-width="1.5"/>
+    <line id="Top" x2="17.155" transform="translate(7.148 10.007)" fill="none" stroke="#170000" stroke-width="1.5"/>
+  </g>
+</svg>

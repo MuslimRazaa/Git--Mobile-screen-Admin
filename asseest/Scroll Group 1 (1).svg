@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="148.26" viewBox="0 0 278 148.26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="278" height="148.26" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="444" height="148.26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path-2)">
+      <g transform="translate(-60.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 546.74)">
+          <text id="Month" transform="translate(10 146.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-9" y="0">Jan 22</tspan></text>
+          <g id="Bars" transform="translate(-2)">
+            <path id="Blue_Bar" data-name="Blue Bar" d="M4,0A4,4,0,0,1,8,4V43H0V4A4,4,0,0,1,4,0Z" transform="translate(15 89)" fill="#0880ae"/>
+            <path id="Green_Bar" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V132a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-19.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-2" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 593.74)">
+          <text id="Month-2" data-name="Month" transform="translate(10 99.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-9" y="0">Feb 22</tspan></text>
+          <g id="Bars-2" data-name="Bars" transform="translate(-2 -47)">
+            <path id="Blue_Bar-2" data-name="Blue Bar" d="M4,0A4,4,0,0,1,8,4V43H0V4A4,4,0,0,1,4,0Z" transform="translate(15 89)" fill="#0880ae"/>
+            <path id="Green_Bar-2" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V85a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 47)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(21.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-3" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 564.74)">
+          <text id="Month-3" data-name="Month" transform="translate(10 128.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-10" y="0">Mar 22</tspan></text>
+          <g id="Bars-3" data-name="Bars" transform="translate(-2 -18)">
+            <path id="Blue_Bar-3" data-name="Blue Bar" d="M3.5,2.5C5.709,2.5,8,2.717,8,6.069V65.24H0V6.069C0,2.717,1.291,2.5,3.5,2.5Z" transform="translate(15 66.76)" fill="#0880ae"/>
+            <path id="Green_Bar-3" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 18)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(62.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-4" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 582)">
+          <text id="Month-4" data-name="Month" transform="translate(10 111)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-9" y="0">Apr 22</tspan></text>
+          <g id="Bars-4" data-name="Bars" transform="translate(-2 -35.26)">
+            <path id="Blue_Bar-4" data-name="Blue Bar" d="M4,3C6.209,3,8,4.154,8,9.278V99.74H0V9.278C0,4.154,1.791,3,4,3Z" transform="translate(15 32.26)" fill="#0880ae"/>
+            <path id="Green_Bar-4" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V92a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 40)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(103.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-5" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 605.5)">
+          <text id="Month-5" data-name="Month" transform="translate(10 87.5)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-10" y="0">May 22</tspan></text>
+          <g id="Bars-5" data-name="Bars" transform="translate(-2 -58.76)">
+            <path id="Blue_Bar-5" data-name="Blue Bar" d="M4,3c2.209,0,4,.175,4,4.092V76.24H0V7.092C0,3.175,1.791,3,4,3Z" transform="translate(15 55.76)" fill="#0880ae"/>
+            <path id="Green_Bar-5" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V18a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 114)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(144.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-6" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(58.5 635.74)">
+          <text id="Month-6" data-name="Month" transform="translate(12 57.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-11" y="0">June 22</tspan></text>
+          <g id="Bars-6" data-name="Bars" transform="translate(0 -89)">
+            <path id="Blue_Bar-6" data-name="Blue Bar" d="M4,0A4,4,0,0,1,8,4V43H0V4A4,4,0,0,1,4,0Z" transform="translate(15 89)" fill="#0880ae"/>
+            <path id="Green_Bar-6" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V32a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 100)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(185.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-7" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.495 546.74)">
+          <text id="Month-7" data-name="Month" transform="translate(10.005 146.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-8" y="0">Jul 22</tspan></text>
+          <g id="Bars-7" data-name="Bars" transform="translate(-1.995)">
+            <path id="Blue_Bar-7" data-name="Blue Bar" d="M4,3c2.209,0,4,.8,4,5.487V91.24H0V8.487C0,3.8,1.791,3,4,3Z" transform="translate(15 40.76)" fill="#0880ae"/>
+            <path id="Green_Bar-7" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V132a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(1.995)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(226.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-8" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 588.74)">
+          <text id="Month-8" data-name="Month" transform="translate(10 104.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-9" y="0">Sep 22</tspan></text>
+          <g id="Bars-8" data-name="Bars" transform="translate(-2 -42)">
+            <path id="Blue_Bar-8" data-name="Blue Bar" d="M4,0A4,4,0,0,1,8,4V43H0V4A4,4,0,0,1,4,0Z" transform="translate(15 89)" fill="#0880ae"/>
+            <path id="Green_Bar-8" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V90a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 42)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(267.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-9" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 546.74)">
+          <text id="Month-9" data-name="Month" transform="translate(10 146.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-9" y="0">Oct 22</tspan></text>
+          <g id="Bars-9" data-name="Bars" transform="translate(-2)">
+            <path id="Blue_Bar-9" data-name="Blue Bar" d="M4.5,3.5C6.709,3.5,8,3.7,8,8.255V88.74H0V8.255C0,3.7,2.291,3.5,4.5,3.5Z" transform="translate(15 43.26)" fill="#0880ae"/>
+            <path id="Green_Bar-9" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V132a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(308.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-10" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 567.74)">
+          <text id="Month-10" data-name="Month" transform="translate(10 125.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-10" y="0">Nov 22</tspan></text>
+          <g id="Bars-10" data-name="Bars" transform="translate(-2 -21)">
+            <path id="Blue_Bar-10" data-name="Blue Bar" d="M4,0C6.209,0,8,.968,8,2.162V23.24H0V2.162C0,.968,1.791,0,4,0Z" transform="translate(15 108.76)" fill="#0880ae"/>
+            <path id="Green_Bar-10" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V111a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 21)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(349.5 -546.74)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-11" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(60.5 595.74)">
+          <text id="Month-11" data-name="Month" transform="translate(10 97.26)" fill="#7e84a3" font-size="6" font-family="Montserrat-Regular, Montserrat"><tspan x="-10" y="0">Dec 22</tspan></text>
+          <g id="Bars-11" data-name="Bars" transform="translate(-2 -49)">
+            <path id="Blue_Bar-11" data-name="Blue Bar" d="M4,0A4,4,0,0,1,8,4V43H0V4A4,4,0,0,1,4,0Z" transform="translate(15 89)" fill="#0880ae"/>
+            <path id="Green_Bar-11" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V83a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 49)" fill="#716b81"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
